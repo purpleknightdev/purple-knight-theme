@@ -71,7 +71,7 @@ Found a scope that isn't colored right, or a UI element that should be more (or 
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE.md)
 
 ---
 
