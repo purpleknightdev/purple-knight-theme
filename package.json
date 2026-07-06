@@ -3,7 +3,7 @@
     "displayName": "Purple Knight Theme",
     "publisher": "PurpleKnight",
     "description": "Theme for experiencing VS in VS Code, since my company cannot pay for its professional version.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.125.0"
     },
