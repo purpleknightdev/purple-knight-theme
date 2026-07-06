@@ -21,7 +21,6 @@
         "tab.selectedBackground": "#222222",
         "tab.selectedForeground": "#ffffffa0",
         "tab.lastPinnedBorder": "#ccc3",
-        "list.activeSelectionIconForeground": "#FFF",
         "terminal.inactiveSelectionBackground": "#3A3D41",
         "widget.border": "#303031",
         "actionBar.toggledBackground": "#383a49",
@@ -78,6 +77,59 @@
 		"tab.activeBorderTop": "#8A2BE2",
 		"tab.activeBackground": "#450455",
 		"tab.activeBorder": "#00000000",
+
+		"button.background": "#8A2BE2",
+		"button.foreground": "#ffffff",
+		"button.hoverBackground": "#9B4F96",
+		"button.border": "#00000000",
+
+		"button.secondaryBackground": "#4B1852",
+		"button.secondaryForeground": "#e6d9f0",
+		"button.secondaryHoverBackground": "#68217A",
+
+		"extensionButton.prominentBackground": "#7822c9",
+		"extensionButton.prominentForeground": "#ffffff",
+		"extensionButton.prominentHoverBackground": "#9B4F96",
+
+		"list.activeSelectionBackground": "#8d5cb1",
+		"list.activeSelectionForeground": "#ffffff",
+		"list.activeSelectionIconForeground": "#ffffff",	
+
+		"list.inactiveSelectionBackground": "#533c67",
+		"list.inactiveSelectionForeground": "#d4c4de",
+
+		"list.hoverBackground": "#472563",
+		"list.hoverForeground": "#e6d9f0",
+
+		"list.focusBackground": "#4B1852",
+		"list.focusForeground": "#ffffff",
+		"list.focusOutline": "#8d5cb1",
+		"list.focusAndSelectionOutline": "#8A2BE2",
+
+		"list.deemphasizedForeground": "#8a7a94",
+
+		"gitDecoration.modifiedResourceForeground": "#e2a8f0",
+		"gitDecoration.addedResourceForeground": "#b28fd6",
+		"gitDecoration.untrackedResourceForeground": "#c9a8dc",
+
+		"foreground": "#d4c4de",
+
+		"tab.activeForeground": "#ffffff",
+		"tab.inactiveForeground": "#a288b3",
+
+		"titleBar.activeForeground": "#e6d9f0",
+		"titleBar.inactiveForeground": "#9a86ab",
+
+		"breadcrumb.foreground": "#a288b3",
+		"breadcrumb.focusForeground": "#ffffff",
+		"breadcrumb.activeSelectionForeground": "#e6d9f0",
+
+		"input.foreground": "#e6d9f0",
+		"dropdown.foreground": "#e6d9f0",
+
+		"notifications.foreground": "#e6d9f0",
+
+		"descriptionForeground": "#a288b3",
     },
     "tokenColors": [
         {
