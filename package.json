@@ -1,12 +1,12 @@
 {
-  "name": "purple-knight-theme",
-  "displayName": "purple-knight-theme",
-  "publisher": "PurpleKnight",
-  "description": "Theme for experiencing VS in VS Code, since my company cannot pay for its professional version.",
-  "version": "0.0.2",
-  "engines": {
-    "vscode": "^1.125.0"
-  },
+    "name": "purple-knight-theme",
+    "displayName": "Purple Knight Theme",
+    "publisher": "PurpleKnight",
+    "description": "Theme for experiencing VS in VS Code, since my company cannot pay for its professional version.",
+    "version": "0.0.1",
+    "engines": {
+      "vscode": "^1.125.0"
+    },
   "categories": [
     "Themes"
   ],
