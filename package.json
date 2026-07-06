@@ -3,25 +3,25 @@
     "displayName": "Purple Knight Theme",
     "publisher": "PurpleKnight",
     "description": "Theme for experiencing VS in VS Code, since my company cannot pay for its professional version.",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
-      "vscode": "^1.125.0"
+        "vscode": "^1.125.0"
     },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Purple Knight Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Purple Knight Theme-color-theme.json"
-      }
-    ]
-  },
-  "icon": "images/icon.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/purpleknightdev/purple-knight-theme.git"
-  }
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Purple Knight Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purple Knight Theme-color-theme.json"
+            }
+        ]
+    },
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/purpleknightdev/purple-knight-theme.git"
+    }
 }
